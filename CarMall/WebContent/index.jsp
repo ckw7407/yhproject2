@@ -8,5 +8,6 @@
 </head>
 <body>
 Call Mall ver1.0
+Call Mall ver2.0
 </body>
 </html>
